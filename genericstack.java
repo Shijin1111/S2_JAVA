@@ -63,5 +63,6 @@ public class genericstack
         s.pop();
         s.pop();
         System.out.println(s.get(3));
+        System.out.print(s.get(4));
     }
 }
